@@ -1,1 +1,1 @@
-# Pilandrome-Checker, part of freeCodeCamp's to train JavaScript
+# Palindrome-Checker, part of freeCodeCamp's to train JavaScript
